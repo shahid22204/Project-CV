@@ -91,6 +91,6 @@
         </tbody>
     </table>
     <p><a href="my_contact.HTML" target="_blank">Contact me</a></p>
-    <img src="Contact me pic.png" width="200" height="75"; style="margin-top:-15px"; alt="Contact me">
+    <img src="Contact me pic.png" width="200" height="75"; alt="Contact me">
 </body>
 </html>
