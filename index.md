@@ -92,6 +92,6 @@
     </table>
 <hr>    
     <p><a href="my_contact.HTML" target="_blank">Contact me</a></p>
-    <p><img src="Contact me pic.png" width="200" height="75"; alt="Contact me"></p>
+    <p><img src="Contact me pic.png" width="200" height="75" alt="Contact me"></p>
 </body>
 </html>
